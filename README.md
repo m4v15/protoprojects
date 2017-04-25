@@ -7,7 +7,7 @@ List of the projects
 
 ## Mario's Barber Shop app
 
-## Hiba's Volunterring Angels
+## Hiba's Volunteering Angels
 
 ## Jack's Recycling Radio
 
