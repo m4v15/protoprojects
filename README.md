@@ -3,7 +3,7 @@ List of the projects
 
 # PROJECTS
 
-Project |
+Project | ...
 --- | ---
 Lubes' Knowledge Sharing app | Lawson's Easy Payment app
 Mario's Barber Shop app | Hiba's Volunteering Angels
