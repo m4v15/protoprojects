@@ -5,7 +5,6 @@ List of the projects
 
 Project | Team
 --- | --- 
-
 **Lawson's Easy Payment app** | Lawson, Elias
 **Hiba's Volunteering Angels** | Hiba, Mavis
 **Edgar's street cleaning source** | Edgar Jack
